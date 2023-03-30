@@ -1,17 +1,7 @@
-# Inmersión en Datos con Python
-Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
+# Inmersión en Datos con Python - Aula 1
 
+Primer contacto con Python y la famosa biblioteca Pandas. Vamos a utilizar diferentes funcionalidades de esta biblioteca para explorar los datos de anuncios de inmuebles en venta en la ciudad de Bogotá - Colombia. Comenzaremos nuestro análisis de datos entendiendo las características generales de nuestros datos y observando con mayor detalle los barrios que tienen mayor cantidad de inmuebles disponibles.
 
-## Objetivos
-
-1. Aplicar Python, Pandas y Colab en Data Science.
-
-2. Descubrir cómo iniciar la carrera en ciencia de datos.
-
-3. Construir el análisis de datos y sacar tus propias conclusiones.
-
-4. Discutir las buenas prácticas para la transmisión transparente y clara de la información.
-
-5. Entender y crear un primer modelo de Machine Learning.
-
-6. Desarrollar un nuevo proyecto para tu portafolio.
+### Desafíos de esta aula
+- Promedio del área de todos los inmuebles en los barrios en el dataset. El top 10;
+- Consultar otros datos estadísticos, conteo, mediana, valores mínimo y máximo.
