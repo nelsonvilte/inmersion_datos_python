@@ -1,17 +1,7 @@
-# Inmersión en Datos con Python
-Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
+# Inmersión en Datos con Python - Aula 2
+En esta aula avanzaremos con nuestro análisis y vamos a iniciar el tratamiento de los datos para trabajar con las primeras visualizaciones con Seaborn. Tendremos casi de todo: Estadística, visualización de datos e incluso tratamiento de strings.
 
+### Desafíos de esta aula
+- Estudiar mejor el histograma de valores, seleccionar 3 tipos de inmuebles (Refinar el gráfico: Títulos, aumentar el tamaño de labels, colores, conclusión de la información);
 
-## Objetivos
-
-1. Aplicar Python, Pandas y Colab en Data Science.
-
-2. Descubrir cómo iniciar la carrera en ciencia de datos.
-
-3. Construir el análisis de datos y sacar tus propias conclusiones.
-
-4. Discutir las buenas prácticas para la transmisión transparente y clara de la información.
-
-5. Entender y crear un primer modelo de Machine Learning.
-
-6. Desarrollar un nuevo proyecto para tu portafolio.
+- Precio del m2 por barrio y hacer el gráfico más adecuado para esta nueva variable.
