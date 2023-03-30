@@ -1,17 +1,11 @@
-# Inmersión en Datos con Python
-Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
+# Inmersión en Datos con Python - Aula 3
+Vamos a traer datos estadísticos de la ciudad de Bogotá, directamente del DANE (Departamento Administrativo Nacional de Estadística)y vamos a ver como estos datos nos ayudarían en inclusión de nuevas variables para el cálculo del precio de los inmuebles en la ciudad de Bogotá.
 
+Encuesta Multiproposito de Bogotá para obtener información socio-económica y de entorno urbano de los habitantes de Bogotá para la formulación, seguimiento y evaluación de las políticas distritales.
 
-## Objetivos
+https://microdatos.dane.gov.co/index.php/catalog/743
 
-1. Aplicar Python, Pandas y Colab en Data Science.
+### Desafíos de esta aula
 
-2. Descubrir cómo iniciar la carrera en ciencia de datos.
-
-3. Construir el análisis de datos y sacar tus propias conclusiones.
-
-4. Discutir las buenas prácticas para la transmisión transparente y clara de la información.
-
-5. Entender y crear un primer modelo de Machine Learning.
-
-6. Desarrollar un nuevo proyecto para tu portafolio.
+- Dar un vistazo a la base de datos del DANE, comprender conceptualmente estas variables para entender mejor el contexto de esta base de datos;
+- Organizar tu notebook para que tu proyecto quede mejor presentado.
