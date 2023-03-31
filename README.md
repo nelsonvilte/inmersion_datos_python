@@ -1,17 +1,9 @@
-# Inmersión en Datos con Python
+# CLASE 04 - CRUZANDO BASES Y MACHINE LEARNING
 Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
 
 
-## Objetivos
-
-1. Aplicar Python, Pandas y Colab en Data Science.
-
-2. Descubrir cómo iniciar la carrera en ciencia de datos.
-
-3. Construir el análisis de datos y sacar tus propias conclusiones.
-
-4. Discutir las buenas prácticas para la transmisión transparente y clara de la información.
-
-5. Entender y crear un primer modelo de Machine Learning.
-
-6. Desarrollar un nuevo proyecto para tu portafolio.
+### Desafíos de esta aula
+- Probar con otros modelos de ML;
+- Trabajar más con los datos y crear nuevas variables;
+- Probar predicciones para casos reales;
+- Crear un proyecto con los resultados de la inmersión.
