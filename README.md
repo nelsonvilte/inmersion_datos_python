@@ -1,5 +1,5 @@
 # CLASE 04 - CRUZANDO BASES Y MACHINE LEARNING
-Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
+Aprender de qué se trata un problema de regresión, cómo entrenar un modelo Machine Lerning usando Sci-Kit Learn y mucho más. 
 
 
 ### Desafíos de esta aula
