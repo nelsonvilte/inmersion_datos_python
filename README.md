@@ -15,4 +15,4 @@ Desarrollo de proyecto de Data Science con Python, Pandas y Colab.
 
 6. Desarrollar un nuevo proyecto para portafolio.
 
-## Branchs
+## Branches
