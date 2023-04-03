@@ -16,11 +16,11 @@ Desarrollo de proyecto de Data Science con Python, Pandas y Colab.
 6. Desarrollar un nuevo proyecto para portafolio.
 
 ## Branches
-- main
-- aula-1
-- aula-2
-- aula-3
-- aula-4
+- main: Introducción
+- aula-1: Tu primer colab con python y pandas
+- aula-2: Tratamiento de Datos y Primeros Gráficos
+- aula-3: Profundizando el análisis exploratorio
+- aula-4: Cruzando bases y Machine Learning
 
 
 
