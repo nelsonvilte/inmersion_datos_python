@@ -1,4 +1,4 @@
-# Inmersión en Datos con Python - Alura Latam
+# Inmersión en Datos con Python en Alura Latam
 Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
 
 ## Objetivos
@@ -16,3 +16,11 @@ Desarrollo de proyecto de Data Science con Python, Pandas y Colab.
 6. Desarrollar un nuevo proyecto para portafolio.
 
 ## Branches
+- main
+- aula-1
+- aula-2
+- aula-3
+- aula-4
+
+
+
