@@ -1,6 +1,6 @@
 # Inmersión en Datos con Python en Alura Latam
 Desarrollo de proyecto de Data Science con Python, Pandas y Colab.  
-Se utilizaron los recursos Google Colab con Python y la libreria Pandas, como datos analizados se usaron datos estadísticos de la ciudad de Bogotá, directamente del DANE, facilitada por ALURA LATAM.
+Se utilizaron los recursos Google Colab con Python y la libreria Pandas, como datos analizados se usaron datos estadísticos de la ciudad de Bogotá, directamente del DANE, facilitados por ALURA LATAM.
 
 ## Objetivos
 
